@@ -1,0 +1,100 @@
+.titulo {
+    background-color: rgba(20, 20, 243, 0.788);
+    width: 1830px;
+    height: 400px;
+    margin-left: 30px;
+    border-style: double;
+    border-color: rgba(20, 20, 243, 0.973);
+
+}
+
+.intro {
+
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    font-size: 70px;
+    
+    margin-top: 150px;
+    margin-left: 150px;
+}
+
+.manos {
+    left: 1300px;
+    top: 1px;
+    position: absolute;
+    z-index: 15;
+}
+
+.section {
+    color: aliceblue;
+    position: absolute;
+    z-index: 4;
+    background-color: rgba(31, 236, 202, 0.897);
+    width: 1200px;
+    height: 1500px;
+    margin-left: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    font-size: 40px;    
+    text-align: center;   
+   
+}
+
+.article1 {
+    position: static;
+    z-index: 5;
+    background-color: rgba(17, 80, 69, 0.897);
+    width: 1100px;
+    height: 500px;
+    margin-left: 40px;
+    margin-top: 130px;
+}
+
+.article2 {
+    position: static;
+    z-index: 6;
+    background-color: rgba(17, 80, 69, 0.897);
+    width: 1100px;
+    height: 500px;
+    margin-left: 40px;
+    margin-top: 130px;
+}
+
+.aside {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    font-size: 40px;    
+    text-align: center;       
+    color: rgb(8, 116, 211);
+    position: absolute;
+    z-index: 4;
+    background-color: rgba(225, 245, 241, 0.897);
+    width: 580px;
+    height: 800px;
+    margin-left: 1270px;
+}
+
+.footer {
+    position: absolute;
+    z-index: 4;
+    background-color: rgba(238, 241, 9, 0.842);
+    margin-left: 30px;
+    width: 1850px;
+    height: 100px;
+    margin-top: 1560px;
+    color: rgb(37, 0, 248);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    font-size: 25px;   
+    text-align: center;
+   
+
+
+}
+
+.container-fluid {
+    margin-left: 10px;
+}
+.flooter{
+    position: absolute;
+    margin-top: 1550px;
+    margin-left: 1600px;
+    z-index: 6;
+}
