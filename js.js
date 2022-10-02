@@ -1,4 +1,4 @@
-/*let nombre = "Programación" + " Fácil.";
+let nombre = "Programación" + " Fácil.";
 let saludo = "Les doy la bienvenida a una nueva Lengua ";
 let fraseCompleta = saludo + nombre;
 console.log("Les doy la bienvenida a una nueva Lengua");
@@ -23,7 +23,7 @@ if (edad >= 18) {
     alert("Puedes entrar, Eres Mayor Disfruta y Aprende.");
 } else {
     alert("Entra junto a un mayor, Diviertete y Aprende");
-} */
+} 
 
 function otraPagina(){
     var confirmar = confirm('Estas Seguro deseas Salir');
