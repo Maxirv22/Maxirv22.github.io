@@ -60,16 +60,16 @@
 }
 
 .aside {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
-    font-size: 40px;    
-    text-align: center;       
-    color: rgb(8, 116, 211);
-    position: absolute;
-    z-index: 4;
-    background-color: rgba(225, 245, 241, 0.897);
-    width: 580px;
-    height: 800px;
-    margin-left: 1270px;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+ font-size: 20px;    
+ text-align: center;       
+ color: rgb(8, 116, 211);
+ position: absolute;
+ z-index: 4;
+ background-color: rgba(225, 245, 241, 0.897);
+ width: 580px;
+ height: 800px;
+ margin-left: 1270px;
 }
 
 .footer {
